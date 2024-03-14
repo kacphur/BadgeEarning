@@ -1,1 +1,1 @@
-console.log("pookie")
+const pair = 'cute;'
